@@ -1,0 +1,24 @@
+name: material_lib
+description: A new Flutter package project.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  getwidget: ^2.0.4
+  gradient_ui_widgets: ^1.0.2-nullsafety
+  styled_widget: ^0.4.0+3
+  velocity_x: ^3.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
